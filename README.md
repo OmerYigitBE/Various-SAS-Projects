@@ -70,4 +70,21 @@ headquarters are labeled as
   - Europe — Cars with high price and low turning diameter
 
 ## Project 4
+Procedures used:
+- proc discrim
+- proc glm
 
+When cell phone relay towers are not working properly, wireless providers can lose great amounts of money so it is important to be able to fix problems expeditiously. A first step toward understanding the problems involved is to collect data from a designed experiment involving three factors. A problem was initially classified as low or high severity, simple or complex and the engineer assigned was rated as relatively new (novice) or expert (guru). Two times were observed. The time to assess the problem and plan an attack and the time to implement the solution were each measured in hours. The text file wireless.txt contains the data.
+
+Variables:
+- x1: Problem Severity Level  (Low or  High)
+- x2: Problem Complexity Level  (Simple or Complex)
+- x3: Engineer Experience Level  (Novice or Guru)
+- y1: Assessment Time (in hours)
+- y2: Implementation time (in hours)
+
+#### Part A
+Multivariate analysis of variance (MANOVA) is performed to assess if assessment time (y1) and the implementation time (y2) differ by the problem severity (x1), problem complexity (x2), and engineer experience level (x3). Interaction effects are also included.
+
+#### Part B
+A canonical correlation analysis on the X and Y variables is performed and the first pair of canonical variables are discussed. Also, a redundancy analysis is performed. Then, the results are discussed.
