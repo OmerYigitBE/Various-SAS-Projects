@@ -1,0 +1,17 @@
+x1 x2 x3 y1 y2
+Low Simple Novice 3.0 6.3
+Low Simple Novice 2.3 5.3
+Low Simple Guru 1.7 2.1
+Low Simple Guru 1.2 1.6
+Low Complex Novice 6.7 12.6
+Low Complex Novice 7.1 12.8
+Low Complex Guru 5.6 8.8
+Low Complex Guru 4.5 9.2
+High Simple Novice 4.5 9.5
+High Simple Novice 4.7 10.7
+High Simple Guru 3.1 6.3
+High Simple Guru 3.0 5.6
+High Complex Novice 7.9 15.6
+High Complex Novice 6.9 14.9
+High Complex Guru 5.0 10.4
+High Complex Guru 5.3 10.4
